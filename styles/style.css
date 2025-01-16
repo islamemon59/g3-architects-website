@@ -54,6 +54,11 @@ main > section{
     margin-top: 130px;
 }
 
+.section-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
 /* header style  */
 
 
@@ -118,10 +123,6 @@ main > section{
     max-width: 530px;
 }
 
-.features-title{
-    font-size: 2.8rem;
-    font-weight: 700;
-}
 
 #quick-list{
     font-weight: 500;
@@ -129,6 +130,11 @@ main > section{
 
 .features-description{
     line-height: 1.7rem;
+}
+
+.facts-description{
+    max-width: 521px;
+
 }
 
 /* responsive media query */
